@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sql_test5", "sql_test5\sql_test5.csproj", "{9B21727A-2F0E-45D1-8EAD-CB49969CE811}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "方案項目", "方案項目", "{D5154758-30F2-4F75-99BE-208D9029F4A0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Downloads\COD03_景點清單附檔模擬.json = ..\..\..\..\Downloads\COD03_景點清單附檔模擬.json
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B21727A-2F0E-45D1-8EAD-CB49969CE811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B21727A-2F0E-45D1-8EAD-CB49969CE811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B21727A-2F0E-45D1-8EAD-CB49969CE811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B21727A-2F0E-45D1-8EAD-CB49969CE811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
